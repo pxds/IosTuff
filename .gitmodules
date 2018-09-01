@@ -1,0 +1,9 @@
+[submodule "libs/SSD1306-lib"]
+	path = libs/SSD1306-lib
+	url = https://github.com/adafruit/Adafruit_SSD1306
+[submodule "libs/Adafruit-GFX"]
+	path = libs/Adafruit-GFX
+	url = https://github.com/adafruit/Adafruit-GFX-Library
+[submodule "libs/ssd1306-oled-controller"]
+	path = libs/ssd1306-oled-controller
+	url = https://github.com/olikraus/u8glib
