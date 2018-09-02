@@ -7,3 +7,6 @@
 [submodule "libs/ssd1306-oled-controller"]
 	path = libs/ssd1306-oled-controller
 	url = https://github.com/olikraus/u8glib
+[submodule "libs/DHT-lib"]
+	path = libs/DHT-lib
+	url = https://github.com/dplasa/dht
