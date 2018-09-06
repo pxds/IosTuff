@@ -1,2 +1,2 @@
 # PlatformIO itializes lib folder with a .txt
-*.txt
+/lib/*.txt
