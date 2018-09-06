@@ -30,13 +30,13 @@ IosTuff
 │   │   ├───very-specific-lib.h
 │	│	└───very-specific-lib.cpp
 │   └───src
-│	 	└───some-code.ino
+│       └───some-code.ino
 │
 ├───other-project
 │   ├───platformio.ini
 │   ├───lib
 │   └───src
-│	 	└───other-code.ino
+│       └───other-code.ino
 ├─ .gitignore
 ├─ .gitmodules
 ├─ README.md
