@@ -31,17 +31,31 @@
 
 struct RegisterDht
 {
-	uint8_t HumitityInteger;
-	uint8_t HumitityFloat;
+	uint8_t HumidityInteger;
+	uint8_t HumidityFloat;
 	uint8_t TemperatureInteger;
-	uint8_t TemperatureFloar;
+	uint8_t TemperatureFloat;
 	uint8_t Checksum;
 
+};
+
+enum DhtStatus
+{
+	SUCCESSFUL_READ,
+	WIRE_LIB_ERROR,
+	NO_BYTES_READ,
+	INCOMPLETE_READ,
+	CHECKSUM_ERROR
 };
 
 class DHT12
 {
 public:
+
+	/**
+	 * Default constructor
+	 */
+	DHT12();
 
 	#ifdef ESP8266
 	/**
@@ -53,18 +67,19 @@ public:
 	 * @sda pin for data
 	 * @scl pin for clock
 	 */
-	void begin(uint8_t sda, uint8_t scl);
+	DHT12(uint8_t sda, uint8_t scl);
 	#endif
 
 	/**
-	 * Starts the I²C bus
+	 * Starts the I²C bus, for most Arduinos you use
+	 * pins A4 (SDA) and A5 (SCL)
 	 */
 	void begin();
 
 	/**
 	 * Tells the sensor to get the readings 
 	 * 
-	 * @return true for suscefull reading, false otherwise
+	 * @return true for successful reading, false otherwise
 	 */
 	bool read();
 
@@ -78,17 +93,24 @@ public:
 	 */
 	float get_humidity();
 
+	/**
+	 * @return status of the last reading
+	 */
+	DhtStatus get_last_status();
+
 private:
 	/**
 	 * Stores the sensor's last reading
 	 */
-	RegisterDht DhtData;
+	RegisterDht dhtData;
+
+	DhtStatus lastReadStatus;
 
 	/**
 	 * Gets the sensor's reading using I²C
 	 * @return sensor's registers data as a struct
 	 */
-	RegisterDht read_sensor();
+	DhtStatus read_sensor();
 };
 
 #endif
