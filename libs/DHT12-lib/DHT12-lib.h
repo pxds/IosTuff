@@ -21,7 +21,7 @@
 
    It will then output the on the I²C bus the data inside its internal
    registers starting on the address provided on the last transaction
-    - DATA REG 0x00 < DATA REG 0x02 < ... < DATA REG 0x04  
+    - DATA REG 0x00 < DATA REG 0x01 < ... < DATA REG 0x04  
 */
 
 #ifndef DHT12LIB_H
