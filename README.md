@@ -28,7 +28,7 @@ IosTuff
 │   ├───platformio.ini
 │   ├───lib
 │   │   ├───very-specific-lib.h
-│	│	└───very-specific-lib.cpp
+│   │   └───very-specific-lib.cpp
 │   └───src
 │       └───some-code.ino
 │
