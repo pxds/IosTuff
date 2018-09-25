@@ -21,7 +21,7 @@
 
    It will then output the on the I²C bus the data inside its internal
    registers starting on the address provided on the last transaction
-    - DATA REG 0x00 < DATA REG 0x02 < ... < DATA REG 0x04  
+    - DATA REG 0x00 < DATA REG 0x01 < ... < DATA REG 0x04  
 */
 
 #ifndef DHT12LIB_H
@@ -85,13 +85,35 @@ public:
 
 	/**
 	 * @return temperature value
+	 * #other: the last bit of the float part is the signal
 	 */
 	float get_temperature();
+
+	/**
+	 * @return temperature integer value
+	 */
+	int get_temperature_integer();
+
+	/**
+	 * @return temperature decimal value
+	 * #other: the last bit of the float part is the signal
+	 */
+	int get_temperature_decimal();
 
 	/**
 	 * @return humidity value
 	 */
 	float get_humidity();
+
+	/**
+	 * @return humidity integer value
+	 */
+	int get_humidity_integer();
+
+	/**
+	 * @return humidity decimal value
+	 */
+	int get_humidity_decimal();
 
 	/**
 	 * @return status of the last reading
