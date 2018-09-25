@@ -24,8 +24,17 @@ void loop(void)
   // (PGM_P) and the F macro to save RAM, using flash to
   // hold the string data instead
   char strOut[8];
+
+  #if defined(ARDUINO_AVR_UNO)
+  int humidityInt = sensor.get_humidity_integer();
+  int humidityDec = sensor.get_humidity_decimal();
+  sprintf_P(strOut, (PGM_P)F("%d.%d%%"), humidityInt, humidityDec);
+  #else
   float humidity = sensor.get_humidity();
-  sprintf_P(strOut, (PGM_P)F("%.1f%%"), humidity);
+  sprintf_P(strOut, (PGM_P)F("%f"), humidity);
+  #endif
+
+  Serial.println(strOut);
 
   int xPos = 3;
 

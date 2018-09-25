@@ -89,9 +89,29 @@ public:
 	float get_temperature();
 
 	/**
+	 * @return temperature integer value
+	 */
+	int get_temperature_integer();
+
+	/**
+	 * @return temperature decimal value
+	 */
+	int get_temperature_decimal();
+
+	/**
 	 * @return humidity value
 	 */
 	float get_humidity();
+
+	/**
+	 * @return humidity integer value
+	 */
+	int get_humidity_integer();
+
+	/**
+	 * @return humidity decimal value
+	 */
+	int get_humidity_decimal();
 
 	/**
 	 * @return status of the last reading

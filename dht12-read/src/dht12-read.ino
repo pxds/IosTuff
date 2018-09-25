@@ -1,4 +1,4 @@
-#include "../libs/DHT12-lib/DHT12-lib.h"
+#include "DHT12-lib.h"
 #include <Wire.h>
 
 DHT12 sensor;

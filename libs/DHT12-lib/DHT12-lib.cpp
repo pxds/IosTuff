@@ -113,12 +113,32 @@ float DHT12::get_temperature()
   return ((float)(intTemperature) + (float)(floatTemperature)*0.1);
 }
 
+int DHT12::get_temperature_integer()
+{
+  return this->dhtData.TemperatureInteger;
+}
+
+int DHT12::get_temperature_decimal()
+{
+  return this->dhtData.TemperatureFloat & 0x7F;
+}
+
 float DHT12::get_humidity()
 {
   int intHumidity = this->dhtData.HumidityInteger;
   int floatHumidity = this->dhtData.HumidityFloat;
 
   return ((float)(intHumidity) + (float)(floatHumidity)*0.1);
+}
+
+int DHT12::get_humidity_integer()
+{
+  return this->dhtData.HumidityInteger;
+}
+
+int DHT12::get_humidity_decimal()
+{
+  return this->dhtData.HumidityFloat;
 }
 
 DhtStatus DHT12::get_last_status()
