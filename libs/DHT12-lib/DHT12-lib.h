@@ -85,6 +85,7 @@ public:
 
 	/**
 	 * @return temperature value
+	 * #other: the last bit of the float part is the signal
 	 */
 	float get_temperature();
 
@@ -95,6 +96,7 @@ public:
 
 	/**
 	 * @return temperature decimal value
+	 * #other: the last bit of the float part is the signal
 	 */
 	int get_temperature_decimal();
 
