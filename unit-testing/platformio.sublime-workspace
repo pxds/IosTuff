@@ -1,0 +1,1201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"devi",
+				"deviceTopic\tabc"
+			],
+			[
+				"EEP",
+				"EEPROM\tabc"
+			],
+			[
+				"EEPROM",
+				"EEPROM_MEM_SIZE\tabc"
+			],
+			[
+				"print",
+				"println\t(BasicOTA.ino)"
+			],
+			[
+				"getFlash",
+				"getFlashChipSize"
+			],
+			[
+				"digit",
+				"digitalWrite\tDeviot digitalWrite"
+			],
+			[
+				"num",
+				"numBeltBags"
+			],
+			[
+				"count",
+				"count100ms"
+			],
+			[
+				"S",
+				"Serial"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"dii",
+				"digitalWrite\tDeviot digitalWrite"
+			],
+			[
+				"glab",
+				"get_gpio_label\t(GPIO_Data.py)"
+			],
+			[
+				"gpio",
+				"gpio_data"
+			],
+			[
+				"DES",
+				"DESCARGA_A"
+			],
+			[
+				"Sensor_",
+				"SENSOR_CURVA"
+			],
+			[
+				"SENS",
+				"SENSOR_COSTURA"
+			],
+			[
+				"PESO",
+				"PESO_PRONTO_A"
+			],
+			[
+				"FLUX",
+				"FLUXO_FINO_A"
+			],
+			[
+				"FLUXO",
+				"FLUXO_GROSSO_A"
+			],
+			[
+				"sri",
+				"serial_data"
+			],
+			[
+				"end",
+				"end_byte"
+			],
+			[
+				"serial",
+				"serial_data"
+			],
+			[
+				"st",
+				"start_byte"
+			],
+			[
+				"send",
+				"send_data"
+			],
+			[
+				"analo",
+				"analogWrite\tDeviot analogWrite"
+			],
+			[
+				"humi",
+				"humidityDec"
+			],
+			[
+				"th",
+				"thermometer_bits"
+			],
+			[
+				"offs",
+				"offset_x"
+			],
+			[
+				"DEF",
+				"define"
+			],
+			[
+				"off",
+				"offset_y"
+			],
+			[
+				"clea",
+				"clearDisplay"
+			],
+			[
+				"kong-",
+				"kong-config"
+			],
+			[
+				"sr",
+				"service_healthy"
+			],
+			[
+				"defa",
+				"defaultValue"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"sprint",
+				"sprint\tDeviot Serial.println()"
+			],
+			[
+				"digi",
+				"digitalWrite\tDeviot digitalWrite"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/unit-testing.ino",
+			"settings":
+			{
+				"buffer_size": 87,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "#ifndef UNIT_TEST"
+			}
+		}
+	],
+	"build_system": "PlatformIO",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"PlatformIO",
+					""
+				],
+				[
+					"PlatformIO",
+					"Build"
+				],
+				[
+					"PlatformIO",
+					"Upload"
+				],
+				[
+					"PlatformIO",
+					"Clean"
+				],
+				[
+					"PlatformIO",
+					"Test"
+				],
+				[
+					"PlatformIO",
+					"Upload using Programmer"
+				],
+				[
+					"PlatformIO",
+					"Upload SPIFFS image"
+				],
+				[
+					"PlatformIO",
+					"Update platforms and libraries"
+				],
+				[
+					"PlatformIO",
+					"Upgrade PlatformIO Core"
+				]
+			],
+			[
+				"PlatformIO",
+				"Test"
+			]
+		]
+	],
+	"build_varint": "Test",
+	"command_palette":
+	{
+		"height": 278.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"uploa",
+				"Deviot: Upload"
+			],
+			[
+				"board",
+				"Deviot: Select Board"
+			],
+			[
+				"Deviot: ",
+				"Deviot: Display Mode"
+			],
+			[
+				"deviot ttmp",
+				"Snippet: Deviot template"
+			],
+			[
+				"device",
+				"Deviot: Device(s)"
+			],
+			[
+				"up",
+				"Deviot: Upload"
+			],
+			[
+				"upload",
+				"Deviot: Upload"
+			],
+			[
+				"uplaod",
+				"Deviot: Upload"
+			],
+			[
+				"uplo",
+				"Deviot: Upload"
+			],
+			[
+				"exampel",
+				"Deviot: Examples"
+			],
+			[
+				"examp",
+				"Deviot: Examples"
+			],
+			[
+				"devic",
+				"Deviot: Device(s)"
+			],
+			[
+				"baud",
+				"Deviot: Serial Baudrate"
+			],
+			[
+				"baudr",
+				"Deviot: Serial Baudrate"
+			],
+			[
+				"upla",
+				"Deviot: Upload"
+			],
+			[
+				"env",
+				"Deviot: Select Environment"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"deviot",
+				"Deviot: Upgrade PlatformIO"
+			],
+			[
+				"upl",
+				"Deviot: Upload"
+			],
+			[
+				"Upload",
+				"Deviot: Upload"
+			],
+			[
+				"envi",
+				"Deviot: Select Environment"
+			],
+			[
+				"upa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comp",
+				"Deviot: Compile"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"B OAR",
+				"Deviot: Select Board"
+			],
+			[
+				"boar",
+				"Deviot: Select Board"
+			],
+			[
+				"compi",
+				"Deviot: Compile"
+			],
+			[
+				"envir",
+				"Deviot: Select Environment"
+			],
+			[
+				"lib",
+				"Deviot: Open Library Folder"
+			],
+			[
+				"ne",
+				"Deviot: New Sketch"
+			],
+			[
+				"librar",
+				"Deviot: Open Library Folder"
+			],
+			[
+				"templa",
+				"Snippet: Deviot template"
+			],
+			[
+				"snippe",
+				"Snippet: Deviot template"
+			],
+			[
+				"devi",
+				"Deviot: Device(s)"
+			],
+			[
+				"board ",
+				"Deviot: Select Board"
+			],
+			[
+				"temp",
+				"Snippet: Deviot template"
+			],
+			[
+				"snipp",
+				"Snippet: Deviot template"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"plaint",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"display",
+				"Deviot: Display Mode"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"syntax plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"dwevice",
+				"Deviot: Show Deviot Console"
+			],
+			[
+				"install i",
+				"Deviot: Find/Install Library"
+			],
+			[
+				"compil",
+				"Deviot: Compile"
+			],
+			[
+				"deviot libra",
+				"Deviot: Find/Install Library"
+			],
+			[
+				"dis",
+				"Deviot: Display Mode"
+			],
+			[
+				"displ",
+				"Deviot: Display Mode"
+			],
+			[
+				"bod",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"UPLO",
+				"Deviot: Upload"
+			],
+			[
+				"bo",
+				"Deviot: Select Board"
+			],
+			[
+				"boad",
+				"Deviot: Select Board"
+			],
+			[
+				"disp",
+				"Deviot: Display Mode"
+			],
+			[
+				"uplod",
+				"Deviot: Upload"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"dev uplo",
+				"Deviot: Upload"
+			],
+			[
+				"deviot clen",
+				"Deviot: Clean"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Channel"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"INCRE",
+				"Increment Selection"
+			],
+			[
+				"INC",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"deviot sniptemp",
+				"Snippet: Deviot template"
+			],
+			[
+				"boa",
+				"Deviot: Select Board"
+			],
+			[
+				"ULO",
+				"Deviot: Upload"
+			],
+			[
+				"compile",
+				"Deviot: Compile"
+			],
+			[
+				"insta",
+				"Deviot: Find/Install Library"
+			],
+			[
+				"enviro",
+				"Deviot: Select Environment"
+			],
+			[
+				"add fold",
+				"Project: Add Folder"
+			],
+			[
+				"exmapl",
+				"Deviot: Examples"
+			],
+			[
+				"UPLOAD",
+				"Deviot: Upload"
+			],
+			[
+				"deviottemp",
+				"Snippet: Deviot template"
+			],
+			[
+				"extra",
+				"Deviot: Extra Library Folder"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"add fi",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"compli",
+				"Deviot: Compile"
+			],
+			[
+				"includ",
+				"Snippet: Deviot include userlib"
+			],
+			[
+				"comple",
+				"Deviot: Rebuild Syntax and Completions Files"
+			],
+			[
+				"snippet",
+				"Snippet: Deviot template"
+			],
+			[
+				"snipdevit",
+				"Snippet: Deviot template"
+			],
+			[
+				"snippetdevi",
+				"Snippet: Deviot template"
+			],
+			[
+				"setup",
+				"Snippet: Deviot setup"
+			],
+			[
+				"Deviot: new",
+				"Deviot: New Sketch"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"deviot open",
+				"Deviot: Open Build Folder"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remov",
+				"Deviot: Remove Library"
+			],
+			[
+				"deviot examp",
+				"Deviot: Examples"
+			],
+			[
+				"deviot instal",
+				"Deviot: Find/Install Library"
+			],
+			[
+				"deviot boar",
+				"Deviot: Select Board"
+			],
+			[
+				"syntax de",
+				"Set Syntax: Deviot"
+			],
+			[
+				"library",
+				"Deviot: Open Library Folder"
+			],
+			[
+				"re",
+				"Deviot: Remove Library"
+			],
+			[
+				"e",
+				"Deviot: Examples"
+			],
+			[
+				"exemp",
+				"Deviot: Examples"
+			],
+			[
+				"removel",
+				"Deviot: Remove Library"
+			],
+			[
+				"devioexmp",
+				"Deviot: Examples"
+			],
+			[
+				"devi ex",
+				"Deviot: Examples"
+			],
+			[
+				"deviot compil",
+				"Deviot: Compile"
+			],
+			[
+				"deviotnew",
+				"Deviot: New Sketch"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"run",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"exma",
+				"Deviot: Examples"
+			],
+			[
+				"dviotliab",
+				"Deviot: Extra Library Folder"
+			],
+			[
+				"exmap",
+				"Deviot: Examples"
+			],
+			[
+				"E",
+				"Deviot: Examples"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 755.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/c/maelstrom/IosTuff/unit-testing"
+	],
+	"file_history":
+	[
+		"/C/Users/victor_praxedes/.platformio/platforms/native/README.md",
+		"/c/maelstrom/IosTuff/unit-testing/platformio.ini",
+		"/c/maelstrom/IosTuff/unit-testing/test/test_desktop/test_empty.cpp",
+		"/C/Users/victor_praxedes/AppData/Local/Programs/Python/Python36-32/Scripts/platformio-script.py",
+		"/C/maelstrom/IosTuff/unit-testing/platformio.sublime-project",
+		"/C/maelstrom/embedded-unit-test/platformio.ini",
+		"/C/maelstrom/j_macedo/dojot-db/cache.py",
+		"/C/Users/victor_praxedes/unix2ts.py",
+		"/C/Users/victor_praxedes/ts2unix.py",
+		"/C/maelstrom/embedded-unit-test/src/main.cpp",
+		"/C/maelstrom/embedded-unit-test/test/test_desktop/test_empty.cpp",
+		"/C/maelstrom/embedded-unit-test/main.ino",
+		"/C/maelstrom/hospital-batista-iot/src/main.cpp",
+		"/C/maelstrom/hospital-batista-iot/src/headers/DOJOT.h",
+		"/C/maelstrom/hospital-batista/nodemcu/eeprom/eeprom-save.ino",
+		"/C/Users/victor_praxedes/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/examples/BasicHttpClient/BasicHttpClient.ino",
+		"/C/projects/vydence/DownloadViaWifi/main.cpp",
+		"/C/maelstrom/hospital-batista-iot/lib/Adafruit BMP280 Library_ID528/Adafruit_BMP280.cpp",
+		"/C/maelstrom/hospital-batista-iot/lib/MQTTHandler/MQTTHandler.cpp",
+		"/C/projects/vydence/bootloader_usb/README.md",
+		"/C/maelstrom/hospital-batista-iot/src/headers/EESTRING.h",
+		"/C/maelstrom/hospital-batista-iot/src/headers/DRD.h",
+		"/C/maelstrom/hospital-batista/esp-01/blink/include/README",
+		"/C/maelstrom/hospital-batista-iot/lib/MQTTHandler/MQTTHandler.h",
+		"/C/Users/victor_praxedes/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include/string.h",
+		"/C/Users/victor_praxedes/.platformio/packages/toolchain-atmelavr/avr/include/string.h",
+		"/C/Users/victor_praxedes/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src/ESP8266HTTPClient.h",
+		"/C/maelstrom/hospital-batista/esp-01/blink/src/esp-01-blink.ino",
+		"/C/Users/victor_praxedes/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/library.properties",
+		"/C/Users/victor_praxedes/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA/library.properties",
+		"/C/Users/victor_praxedes/.platformio/packages/framework-arduinoespressif8266/ISSUE_TEMPLATE.md",
+		"/C/maelstrom/hospital-batista-iot/src/headers/OLED.h",
+		"/C/maelstrom/hospital-batista-iot/platformio.ini",
+		"/C/maelstrom/hospital-batista/esp-01/blink/src/LedControler.h",
+		"/C/maelstrom/hospital-batista/esp-01/blink/platformio.ini",
+		"/C/maelstrom/j_macedo/dojot-stress-test/platformio.ini",
+		"/C/maelstrom/j_macedo/dojot-stress-test/src/dojot-stress-test.ino",
+		"/C/maelstrom/ezbl-v2.11/ezbl_lib/weak_defaults/EZBL_InitializeBoard.c",
+		"/C/Users/victor_praxedes/.platformio/lib/MQTTHandler/MQTTHandler.cpp",
+		"/C/maelstrom/hospital-batista-iot/lib/WiFiHandler/WiFiHandler.cpp",
+		"/C/maelstrom/hospital-batista-iot/src/DOJOT.h",
+		"/C/maelstrom/hospital-batista/esp-01/blink/esp-01-blink.ino",
+		"/C/maelstrom/j-macedo-carrossel-emulator/src/carrossel-io-emulator.ino",
+		"/C/maelstrom/dojot-stress/dojot-stress.py",
+		"/C/maelstrom/hospital-batista-iot/a.cpp",
+		"/C/maelstrom/hospital-batista/nodemcu/deep-sleep/wake-deepsleep.ino",
+		"/C/Users/victor_praxedes/.platformio/lib/DoubleResetDetector_ID1679/README.md",
+		"/C/maelstrom/hospital-batista/samples/wake-deepsleep.ino",
+		"/C/maelstrom/hospital-batista/samples/esp-01-blink.ino",
+		"/C/Users/victor_praxedes/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA/examples/BasicOTA/BasicOTA.ino",
+		"/C/maelstrom/j_macedo/j-macedo-raspberrypi/pigpio-gpio-interrupt.py",
+		"/C/Users/victor_praxedes/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA/examples/OTALeds/OTALeds.ino",
+		"/C/maelstrom/IosTuff/dht12-read/src/dht12-read.ino",
+		"/C/maelstrom/IosTuff/oled-i2c/src/oled-i2c.ino",
+		"/C/maelstrom/IosTuff/oled-i2c-dht12/src/oled-i2c-dht12.ino",
+		"/C/maelstrom/IosTuff/oled-i2c-glyph/src/oled-i2c-glyph.ino",
+		"/C/maelstrom/multikids/src/firmware/esp8266-server/mqtt-pulse-sensor/mqtt-pulse-sensor.ino",
+		"/C/maelstrom/serial-data/src/serial-data.ino",
+		"/C/maelstrom/SENDI/src/esp-lora.ino",
+		"/C/maelstrom/hist.py",
+		"/C/maelstrom/ezbl-v2.11/ex_boot_uart/main.c",
+		"/C/maelstrom/atlantico-dojot-docker-compose/docker-compose.yml",
+		"/C/maelstrom/ezbl-v2.11/ex_app_led_blink/usb_msd_fileio_demo/fileio_demo.c",
+		"/C/maelstrom/ezbl-v2.11/ex_app_led_blink/main.c",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa11148.25982/main.c",
+		"/C/Users/victor_praxedes/Documents/entrevista bianca",
+		"/c/users/victor~1/appdata/local/temp/rsub-hg1wb5/j-macedo.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-u45snm/mqtt-async-client.py",
+		"/C/maelstrom/j-macedo/plot-time.py",
+		"/C/maelstrom/j-macedo/time-subtract.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-imt9hu/mqtt-async-client.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-0u0y2b/mqtt-async-client.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-tctaax/mqtt-async-client.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-c1gdu2/mqtt-async-client.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-4x8xpq/gyro-read.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-7mfhsc/gyro-sample.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-otukkz/mqtt-async-client.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-l978km/mqtt-client-async.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-95xvj0/mqtt-client-async.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-or3aw3/gyro-sample.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-_f93nc/mqtt-client-async.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-7csbz9/mqtt-client-async.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-4bgxdy/gyro-sample.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-_9zuzp/a",
+		"/c/users/victor~1/appdata/local/temp/rsub-81lw6m/a",
+		"/C/Users/victor_praxedes/.ssh/config",
+		"/C/maelstrom/j-macedo/j-macedo-carrossel-emulator/src/carrossel-io-emulator.ino",
+		"/c/users/victor~1/appdata/local/temp/rsub-dbf9u_/pigpio-gpio-interrupt.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-zdvyxf/pigpio-gpio-interrupt.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-da21pj/GPIO_Data.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-ix1w8c/pigpio-gpio-interrupt.py",
+		"/C/Users/victor_praxedes/.ssh/rasp.pub",
+		"/C/Users/victor_praxedes/.ssh/rasp",
+		"/C/Users/victor_praxedes/.ssh/known_hosts",
+		"/C/Users/victor_praxedes/.ssh/pi_key.pub",
+		"/C/Users/victor_praxedes/.ssh/pi_key",
+		"/c/users/victor~1/appdata/local/temp/rsub-9gqvpy/authorized_keys",
+		"/c/users/victor~1/appdata/local/temp/rsub-5yqnsv/authorized_keys",
+		"/c/users/victor~1/appdata/local/temp/rsub-v71put/GPIO_Data.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-6mds4q/GP",
+		"/C/maelstrom/data-broker/node_modules/mute-stream/coverage/lcov-report/prettify.css",
+		"/c/users/victor~1/appdata/local/temp/rsub-d51qq8/pigpio-gpio-interrupt.py",
+		"/C/maelstrom/atlantico-dojot-docker-compose/kong.config.sh",
+		"/c/users/victor~1/appdata/local/temp/rsub-6atp1q/pigpio-gpio-interrupt.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-521fy8/pigpio-gpio-interrupt.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-uya6hs/GPIO_Data.py",
+		"/C/maelstrom/dojot-docker-compose/docker-compose.yml",
+		"/C/maelstrom/j-macedo/j-macedo-carrossel-emulator/lib/TickerScheduler/TickerScheduler.cpp",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.24728/Base.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.10013/Drone.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.24210/Drone.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.23297/Medidor.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.16906/Medidor.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.26223/Drone.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.21154/Base.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa10816.13609/Drone.ino",
+		"/c/users/victor~1/appdata/local/temp/rsub-w_bh33/GPIO_Data.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-qmr6mw/pigpio-gpio-interrupt.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-5847z4/pigpio-gpio-interrupt.py",
+		"/C/Users/victor_praxedes/Downloads/SENDI/SENDI/Medidor/Medidor.ino",
+		"/C/Users/victor_praxedes/Downloads/SENDI/SENDI/Drone/Drone.ino",
+		"/C/Users/victor_praxedes/Downloads/SENDI (1)/SENDI/Drone/Drone.ino",
+		"/C/Users/victor_praxedes/AppData/Local/Temp/Rar$DIa3488.42535/Drone.ino",
+		"/C/Users/victor_praxedes/Downloads/SENDI (1)/SENDI/Base/Base.ino",
+		"/C/Users/victor_praxedes/Downloads/SENDI/SENDI/Base/Base.ino",
+		"/C/Users/victor_praxedes/Downloads/src/Config.ino",
+		"/c/users/victor~1/appdata/local/temp/rsub-nyowd6/pigpio-gpio-interrupt.py",
+		"/c/users/victor~1/appdata/local/temp/rsub-_vlrtg/GPIO_Data.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/unit-testing.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#ifndef UNIT_TEST",
+							"syntax": "Packages/Deviot (Arduino IDE)/deviot.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 250.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "PlatformIO",
+	"project": "platformio.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"platf",
+				"embedded-unit-test\\platformio.ini"
+			],
+			[
+				"embeddedplat",
+				"embedded-unit-test\\platformio.ini"
+			],
+			[
+				"eeprom",
+				"hospital-batista\\nodemcu\\eeprom\\eeprom-save.ino"
+			],
+			[
+				"eepr",
+				"hospital-batista\\nodemcu\\eeprom\\eeprom-save.ino"
+			],
+			[
+				"eestring",
+				"hospital-batista-iot\\src\\headers\\EESTRING.h"
+			],
+			[
+				"drd",
+				"hospital-batista-iot\\src\\headers\\DRD.h"
+			],
+			[
+				"dojot",
+				"hospital-batista-iot\\src\\headers\\DOJOT.h"
+			],
+			[
+				"mqtthan",
+				"hospital-batista-iot\\lib\\MQTTHandler\\MQTTHandler.cpp"
+			],
+			[
+				"eest",
+				"hospital-batista-iot\\src\\headers\\EESTRING.h"
+			],
+			[
+				"board",
+				"ezbl-v2.11\\ezbl_lib\\weak_defaults\\EZBL_InitializeBoard.c"
+			],
+			[
+				"mqttcp",
+				"hospital-batista-iot\\lib\\MQTTHandler\\MQTTHandler.cpp"
+			],
+			[
+				"plat",
+				"hospital-batista-iot\\platformio.ini"
+			],
+			[
+				"kong",
+				"atlantico-dojot-docker-compose\\kong.config.sh"
+			],
+			[
+				"docker-com",
+				"atlantico-dojot-docker-compose\\docker-compose.yml"
+			],
+			[
+				"esp-lo",
+				"SENDI\\src\\esp-lora.ino"
+			],
+			[
+				"docker-compo",
+				"atlantico-dojot-docker-compose\\docker-compose.yml"
+			],
+			[
+				"docker-comp",
+				"atlantico-dojot-docker-compose\\docker-compose.yml"
+			],
+			[
+				"logs",
+				"maelstrom\\atlantico-dojot-docker-compose\\logs.txt"
+			],
+			[
+				"dock",
+				"maelstrom\\data-broker\\tests\\docker-compose.yml"
+			],
+			[
+				"docker-compoe",
+				"maelstrom\\dojot-docker-compose\\docker-compose.yml"
+			],
+			[
+				"dojot.js",
+				"maelstrom\\poc_esmaltec\\server_node\\routes\\dojot.js"
+			],
+			[
+				"config.json",
+				"maelstrom\\poc_esmaltec\\server_node\\routes\\config.json"
+			],
+			[
+				"server-dev.",
+				"maelstrom\\poc_esmaltec\\client_react\\src\\config\\server-dev.json"
+			],
+			[
+				"clienttable",
+				"maelstrom\\poc_esmaltec\\client_react\\src\\client\\view\\table.jsx"
+			],
+			[
+				"",
+				"maelstrom\\poc_esmaltec\\client_react\\src\\client\\utils\\repository.js"
+			],
+			[
+				"subscrip",
+				"maelstrom\\data-broker\\build\\src\\subscription-engine.js"
+			],
+			[
+				"docker comp",
+				"maelstrom\\dojot\\deploy\\docker-compose.yml"
+			],
+			[
+				"docker-cm",
+				"maelstrom\\data-broker\\tests\\docker-compose.yml"
+			],
+			[
+				"dockercompose",
+				"maelstrom\\dojot\\deploy\\docker-compose.yml"
+			],
+			[
+				"firmware",
+				"maelstrom\\multikids\\src\\firmware\\esp8266-server\\mqtt-pulse-sensor\\includes\\MQTTHandler.cpp"
+			],
+			[
+				"dockerfile",
+				"maelstrom\\mqtt-manager\\Dockerfile"
+			],
+			[
+				"docker compo",
+				"maelstrom\\data-broker\\tests\\docker-compose.yml"
+			],
+			[
+				"kongcon",
+				"maelstrom\\dojot\\deploy\\kong.config.sh"
+			],
+			[
+				"dockerc",
+				"maelstrom\\dojot\\deploy\\docker-compose.yml"
+			],
+			[
+				"docker-compe",
+				"maelstrom\\dojot\\deploy\\docker-compose.yml"
+			],
+			[
+				"subsc",
+				"maelstrom\\data-broker\\build\\ngsi\\Subscriber.js"
+			],
+			[
+				"firmawre/",
+				"multikids\\src\\firmware\\esp8266-server\\mqtt-pulse-sensor\\mqtt-pulse-sensor.ino"
+			],
+			[
+				"datasource",
+				"hero\\awf-grails\\grails-app\\domain\\br\\com\\atlantico\\awf\\DataSource.groovy"
+			],
+			[
+				"hero/grails-app/",
+				"hero\\hero\\grails-app\\conf\\application.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
